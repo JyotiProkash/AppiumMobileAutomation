@@ -1,8 +1,10 @@
 # Getting Started
-NativeAppAutomation(NativeApp+WebView)
-TDD Framework(Appium+TestNG)
-BDD Framework(Appium+CucumberJunit)
-BDD Framework(Appium+CucumberTestNG)
+<ul>
+<li>NativeAppAutomation(NativeApp+WebView)</li>
+<li>TDD Framework(Appium+TestNG)<li>
+<li>BDD Framework(Appium+CucumberJunit)<li>
+<li>BDD Framework(Appium+CucumberTestNG)<li>
+</ul>
 
 ## Maven
 All project are managed by maven.
